@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E501E8892A94A6E6006A88A5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E501E8882A94A6E6006A88A5 /* Model.swift */; };
+		E51C84352A94C178004969CF /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E51C84342A94C178004969CF /* .gitignore */; };
 		E580774A2A94AE8100606069 /* DetailPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E58077492A94AE8100606069 /* DetailPage.swift */; };
 		E5A25DBC2A949662002B4F4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25DBB2A949662002B4F4E /* AppDelegate.swift */; };
 		E5A25DBE2A949662002B4F4E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A25DBD2A949662002B4F4E /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		E501E8882A94A6E6006A88A5 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		E51C84342A94C178004969CF /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		E58077492A94AE8100606069 /* DetailPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPage.swift; sourceTree = "<group>"; };
 		E5A25DB82A949662002B4F4E /* MemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5A25DBB2A949662002B4F4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 		E5A25DAF2A949662002B4F4E = {
 			isa = PBXGroup;
 			children = (
+				E51C84342A94C178004969CF /* .gitignore */,
 				E5A25DBA2A949662002B4F4E /* MemoApp */,
 				E5A25DB92A949662002B4F4E /* Products */,
 			);
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5A25DC52A949663002B4F4E /* Assets.xcassets in Resources */,
+				E51C84352A94C178004969CF /* .gitignore in Resources */,
 				E5A25DC32A949662002B4F4E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
